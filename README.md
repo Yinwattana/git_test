@@ -1,0 +1,19 @@
+which vagrant 
+vagrant --version 
+# window or linux 
+vagrant init ubuntu/jammy64 
+
+# mac 
+vagrant init bento/ubuntu-24.04
+
+# start the vm 
+vagrant up 
+vagrant status 
+vagrant ssh 
+
+# shutdown 
+vagrant halt 
+vagrant destroy -f # delete the vm 
+
+# reload the inline script 
+vagrant reload --provision

@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/workspace":{"guestpath":"/home/vagrant/workspace","hostpath":"/Users/yinwattana/Documents/vagrant-demo/local-lab/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/yinwattana/Documents/vagrant-demo/local-lab","disabled":false,"__vagrantfile":true}}}
